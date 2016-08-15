@@ -1,3 +1,7 @@
+# Clion
+/.idea
+CMakeLists.txt
+
 # Compiled Object files
 *.slo
 *.lo
